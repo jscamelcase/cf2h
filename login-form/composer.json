@@ -1,0 +1,16 @@
+{
+  "name": "carlp/cfsh",
+  "description": "sessions form",
+  "authors": [
+    {
+      "name": "Carl Paraskevas",
+      "email": "carl.paraskevas@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}

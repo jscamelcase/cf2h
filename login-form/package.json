@@ -1,0 +1,16 @@
+{
+  "name": "login-form",
+  "version": "1.0.0",
+  "description": "PHP login form for CF2H",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:./public/styles",
+    "sass:watch": "sass --no-source-map --watch scss:./public/styles"
+  },
+  "author": "Carl Paraskevas",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.75.0"
+  }
+}
